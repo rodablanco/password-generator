@@ -1,4 +1,4 @@
-# password-genarator
+# password-generator
 
 ![project screenshot](/images/password-generator-screenshot.png)
 
