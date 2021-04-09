@@ -1,6 +1,6 @@
 # password-genarator
 
-![project screenshot](/images/password-generator-screenshot.jpg)
+![project screenshot](/images/password-generator-screenshot.png)
 
 https://rodablanco.github.io/password-generator/
 git add
