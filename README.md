@@ -1,5 +1,5 @@
 # password-genarator
-<a src= ".images/password generator screenshot">
+<a src= ".images/password generator screenshot.jpg">
 
 https://rodablanco.github.io/password-generator/
 
